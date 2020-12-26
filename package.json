@@ -10,10 +10,9 @@
   "dependencies": {
     "request": "^2.88.2",
     "require": "^2.4.20",
-    "express":"*",
-    "body-parser":"*",
-    "bcrypt": "^0.8.5"
- },
+    "express": "*",
+    "body-parser": "*"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
