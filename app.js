@@ -53,6 +53,8 @@ app.post("/",(req,res)=>{
             console.log(response.statusCode)
         }
         else{
+            console.log(response.statusCode)
+            
             res.sendFile(__dirname+"/public/failure.html")
         }
     })
