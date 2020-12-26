@@ -7,7 +7,6 @@
   },
   "author": "kappa",
   "license": "ISC",
-  
   "dependencies": {
     "request": "^2.88.2",
     "require": "^2.4.20",
